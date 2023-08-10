@@ -182,6 +182,7 @@
 // console.log(obj1.obj2);
  
 let result = confirm("Ты чмо?");
+let ak;
 let arr = [];
 arr [0] = prompt("ИМЯ?");
 document.write(arr);
